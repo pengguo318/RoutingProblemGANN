@@ -1,8 +1,7 @@
-Kun Lei, Peng Guo, Yi Wang, Xiao Wu, Wenchao Zhao. Solve routing problems with a residual edge-graph attention neural network. https://arxiv.org/abs/2105.02730.
+If you refer to our source code. Please cite it.
 
-The work has been accepted by NeuroComputing. Great news.
-
-Please cite our work.
+Kun Lei, Peng Guo, Yi Wang, Xiao Wu, Wenchao Zhao. Solve routing problems with a residual edge-graph attention neural network. Neurocomputing.2022.
+https://arxiv.org/abs/2105.02730
 
 NEEDED:
 torch                     1.4.0
